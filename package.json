@@ -1,0 +1,20 @@
+{
+  "name": "lab19-aws-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "driver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nacerillo/lab19-aws-events.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nacerillo/lab19-aws-events/issues"
+  },
+  "homepage": "https://github.com/nacerillo/lab19-aws-events#readme"
+}
